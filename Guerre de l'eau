@@ -1,0 +1,58 @@
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Le Monde - 12 janvier 2039</title>
+    <style>
+        body {
+            font-family: "Georgia", serif;
+            margin: 20px;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+        }
+        header {
+            text-align: center;
+            background-color: #333;
+            color: white;
+            padding: 20px 0;
+        }
+        header h1 {
+            margin: 0;
+        }
+        article {
+            background: white;
+            padding: 20px;
+            margin: 20px auto;
+            max-width: 800px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #444;
+        }
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            font-size: 0.9em;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Le Monde</h1>
+        <p>Jeudi 12 janvier 2039</p>
+    </header>
+    <article>
+        <h2>"La chaîne UAE'L : quand le complotisme s'attaque à nos souterrains"</h2>
+        <p><strong>Par notre rédaction spéciale</strong></p>
+        <p>Depuis plusieurs semaines, une chaîne YouTube baptisée <strong>UAE'L</strong> enflamme les réseaux sociaux avec des vidéos affirmant l'existence d'une <strong>"guerre souterraine mondiale"</strong>. Selon ses créateurs, les récents séismes qui ont frappé diverses régions du globe ne seraient pas des catastrophes naturelles, mais les conséquences directes de combats secrets menés sous terre.</p>
+        <h3>Une théorie sans fondement scientifique</h3>
+        <p>D'après les experts interrogés, rien ne soutient les allégations de UAE'L. Les récents séismes, bien que préoccupants, s'inscrivent dans un schéma géologique parfaitement explicable...</p>
+        <h3>La lutte contre la désinformation</h3>
+        <p>Le gouvernement appelle à la vigilance face à la propagation de ces récits complotistes...</p>
+        <footer>
+            <p>&copy; Le Monde, 2039</p>
+        </footer>
+    </article>
+</body>
+</html>
